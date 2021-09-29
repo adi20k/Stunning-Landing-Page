@@ -27,7 +27,7 @@
     font-weight: bold;
     
 }
-.active{
+.nav-bar-sub > a:hover{
     opacity: 1 !important;
     /* text-decoration: underline; */
     border-bottom: 3px solid #5243C0;
@@ -145,7 +145,7 @@ button{
     margin-right: 20px;
     margin-top: 10px;
 }
-.active-item{
+.list-item:hover{
     background-color: #ffffff;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
